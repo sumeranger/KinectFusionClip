@@ -1,0 +1,11 @@
+%YAML:1.0
+markersX: 2
+markersY: 2
+markerLength: 250.0
+markerSeparation: 654.0
+dictionaryId: 8
+halfSideLengthDivRadius: 0.66666666
+refindStrategy: true
+calibrationFile: out_kinect_data.xml
+detectorFile: detector_params.yml
+numofMarketThreshold: 2
